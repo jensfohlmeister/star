@@ -1,0 +1,11 @@
+key			|	4			| % 1-your data; 2-artificial data, paper; 3,4,5-random data with 1,2,3 growth rate changes
+Anchorpoint_age		|	[-60,-60,-60]		| % Age at anchor point (age, upper age error, lower age error)
+Anchorpoint_depth	|	0			| % Depth at anchor point
+
+NRCV			|	5			| % Number of significant radiocarbon values needed for fitting (growth rate changes); default = 5
+
+bpad			|	500			| % Number of years needed for fitting (growth rate changes); default=
+stalfile		|	Bir-14C.txt		| % depth (mm), fm, and fm err for stalagmite
+
+proxyfile-d13C		|	Bir-d13C.txt		| % d13C proxy values of stalagmite; 'none' if not available
+proxyfile-MgCa		|	Bir-MgCa.txt		| % MgCa proxy values of stalagmite; 'none' if not available
