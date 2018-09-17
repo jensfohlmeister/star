@@ -1,4 +1,4 @@
-key			|	4			| % 1-your data; 2-artificial data, paper; 3,4,5-random data with 1,2,3 growth rate changes
+key			|	4			| % 5-your data; 4-artificial data, paper; 1,2,3-random data with 1,2,3 growth rate changes
 Anchorpoint_age		|	[-60,-60,-60]		| % Age at anchor point (age, upper age error, lower age error)
 Anchorpoint_depth	|	0			| % Depth at anchor point
 
