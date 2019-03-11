@@ -2,8 +2,8 @@
 STAlagmite dating by Radiocarbon (star): a software tool for reliable and fast age depth modelling
 
 The software comes along with the following publication:
-Fohlmeister, J., Lechleitner, F.A., STAlagmite dating by Radiocarbon (star): a software tool for 
-reliable and fast age depth modelling, Quaternary Geochronology, submitted
+Fohlmeister, J., Lechleitner, F.A., 2019, STAlagmite dating by Radiocarbon (star): a software tool for 
+reliable and fast age depth modelling, Quaternary Geochronology 51, 120-129.
 
 based on previous work, presented in:
 
